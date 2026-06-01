@@ -1,0 +1,12 @@
+[2026-05-16 09:51:12.1961] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 09:51:24.5382] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 09:51:49.6532] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:10:34.0329] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:10:35.9694] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:10:44.4083] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:23:30.1428] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:23:31.9558] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:23:33.6404] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:30:39.8244] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:30:41.0076] DefaultCalcPropAttackR Buff Cale !!!!!### 
+[2026-05-16 10:30:42.6335] DefaultCalcPropAttackR Buff Cale !!!!!### 

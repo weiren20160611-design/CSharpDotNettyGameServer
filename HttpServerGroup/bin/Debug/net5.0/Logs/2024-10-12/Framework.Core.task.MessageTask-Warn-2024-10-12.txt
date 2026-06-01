@@ -1,0 +1,1 @@
+[2024-10-12 20:34:55.9427] message task execute failedUnable to cast object of type 'Game.Datas.Messages.ResGuestLogin' to type 'Framework.Core.Serializer.Message'. 

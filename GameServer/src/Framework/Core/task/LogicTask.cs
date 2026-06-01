@@ -1,0 +1,71 @@
+﻿using Framework.Core.Net;
+using Framework.Core.Serializer;
+using System;
+using System.Collections.Generic;
+using System.Reflection;
+using System.Text;
+
+namespace Framework.Core.task
+{
+    public class LogicEvent
+    {
+        public IdSession s;
+        public long playerId;
+        public short module;
+        public short cmd;
+        public object msg;
+    }
+
+    public class LogicTask : AbstractDistributeTask
+    {
+
+        private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
+
+        private object handler;
+        /** target method of the controller */
+        private MethodInfo method;
+
+        private int stype;
+
+        public Queue<LogicEvent> eventQueue;
+
+
+        public void PushEvent(IdSession s, long playerId, short module, short cmd, object msg)
+        {
+            LogicEvent e = new LogicEvent();
+            e.module = module;
+            e.cmd = cmd;
+            e.msg = msg;
+            e.s = s;
+            e.playerId = playerId;
+
+            lock (this.eventQueue)
+            {
+                this.eventQueue.Enqueue(e);
+            }
+        }
+
+        public static LogicTask Create(long taskId, int stype, object handler, MethodInfo method)
+        {
+            LogicTask t = new LogicTask();
+            t.taskId = taskId;
+            t.stype = stype;
+            t.handler = handler;
+            t.method = method;
+            t.eventQueue = new Queue<LogicEvent>();
+            return t;
+        }
+
+        public override void DoAction()
+        {
+            try
+            {
+                method.Invoke(handler, null);
+            }
+            catch (Exception e)
+            {
+                logger.Warn("message task execute failed" + e.Message);
+            }
+        }
+    }
+}

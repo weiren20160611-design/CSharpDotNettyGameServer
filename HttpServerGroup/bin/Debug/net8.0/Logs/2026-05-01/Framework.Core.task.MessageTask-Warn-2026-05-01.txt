@@ -1,0 +1,1 @@
+[2026-05-01 13:58:42.4989] message task execute failedAn element of type Game.Datas.Messages.GoodsItem was null; this might be as contents in a list/array 

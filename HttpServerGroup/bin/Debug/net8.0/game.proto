@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+message AccountInfo {
+   string unick = 1;
+   int32 uface = 2;
+   int32 uvip = 3;
+   int32 isGuest = 4;
+}
+message PlayerInfo {
+   string uname = 1;
+   int32 hp = 2;
+   int32 exp = 3;
+   int32 mp = 4;
+   int32 umoney = 5;
+   int32 ucoin = 6;
+   int32 usex = 7;
+   int32 hasBonues = 8;
+   int32 days = 9;
+   int32 bonuesNum = 10;
+}
+message ReqGuestLogin {
+   string guestKey = 1;
+   int32 channal = 2;
+}
+message ReqGuestUpgrade {
+   string uname = 1;
+   string upwd = 2;
+   string unick = 3;
+}
+message ReqPullingPlayerData {
+   int32 job = 1;
+}
+message ReqRecvLoginBonues {
+   int32 type = 1;
+}
+message ReqRegisterUser {
+   string uname = 1;
+   string upwd = 2;
+   int32 channal = 3;
+}
+message ReqSelectPlayer {
+   int32 job = 1;
+   string name = 2;
+   int32 usex = 3;
+   int32 charactorId = 4;
+}
+message ReqUserLogin {
+   string uname = 1;
+   string upwd = 2;
+   int32 channal = 3;
+}
+message ResGuestLogin {
+   int32 status = 1;
+   AccountInfo uinfo = 2;
+}
+message ResGuestUpgrade {
+   int32 status = 1;
+   AccountInfo accountInfo = 2;
+}
+message ResPullingPlayerData {
+   int32 status = 1;
+   PlayerInfo pInfo = 2;
+}
+message ResRecvLoginBonues {
+   int32 status = 1;
+   int32 num = 2;
+}
+message ResRegisterUser {
+   int32 status = 1;
+   string errorMsg = 2;
+}
+message ResSelectPlayer {
+   int32 status = 1;
+   PlayerInfo pInfo = 2;
+}
+message ResUserLogin {
+   int32 status = 1;
+   AccountInfo accountInfo = 2;
+}

@@ -1,0 +1,117 @@
+﻿using Game.Datas.GMEntities;
+using RVO;
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace Game.LogicServer
+{
+    public class RVOSystem
+    {
+
+        public static void StartRvoAction(GM_PlayerEntity e, float x, float y, float z)
+        {
+            e.uRVO.targetPos = new Vector3(x, y, z);
+        }
+
+        public static void StopRvoAction(GM_PlayerEntity player)
+        {
+
+        }
+
+        public static void RvoUpdate(AOIMgr aoi, GM_PlayerEntity e, float dt)
+        {
+            Vector3 pos = GetAgentPosition(e.uRVO.agentId);
+            Vector3 dir = Vector3.Sub(ref e.uRVO.targetPos, ref pos);
+            float len = Vector3.Len(ref dir);
+
+            // NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
+            // logger.Info($"len {len}");
+            if (len <= 0.3f)
+            { // 这里是根据游戏效果来调整就可以了;
+
+                SetAgentPosition(e.uRVO.agentId, e.uRVO.targetPos);
+                SetAgentPrefVelocity(e.uRVO.agentId, new Vector3(0, 0, 0));
+                EntityHelper.SyncEntityStatus(e, aoi, (int)CharactorStatus.Idle);
+                return;
+            }
+            Console.WriteLine($"obsNeighbors={Simulator.Instance.getAgentNumObstacleNeighbors(e.uRVO.agentId)} " +
+                $"maxSpeed={Simulator.Instance.getAgentMaxSpeed(e.uRVO.agentId)} " +
+                $"timeHorizonObst={Simulator.Instance.getAgentTimeHorizonObst(e.uRVO.agentId)} " +
+                $"neighDist={Simulator.Instance.getAgentNeighborDist(e.uRVO.agentId)} " +
+                $"radius={Simulator.Instance.getAgentRadius(e.uRVO.agentId)}");
+            Vector3 v;
+            v.x = dir.x * e.uProps.speed / len;
+            v.z = dir.z * e.uProps.speed / len;
+            v.y = 0;
+            SetAgentPrefVelocity(e.uRVO.agentId, v);
+        }
+
+        public static void RvoLateUpdate(AOIMgr aoi, GM_PlayerEntity e, float dt)
+        {
+            RVO.Vector2 pos = RVO.Simulator.Instance.getAgentPosition(e.uRVO.agentId);
+            RVO.Vector2 vel = RVO.Simulator.Instance.getAgentVelocity(e.uRVO.agentId);
+            e.uTransform.pos = new Vector3(pos.x(), 0, pos.y());
+
+            if (Math.Abs(vel.x()) > 0.0005f && Math.Abs(vel.y()) > 0.0005f)
+            {
+                e.uTransform.eulerAngles.y = (MathF.Atan2(vel.y(), vel.x()) * 180) / MathF.PI;
+            }
+        }
+
+        public static int CreateAgent(Vector3 pos, float r)
+        {
+            int agentId = RVO.Simulator.Instance.addAgent(new RVO.Vector2(pos.x, pos.z));
+            RVO.Simulator.Instance.setAgentRadius(agentId, r);
+            return agentId;
+        }
+
+        public static void RVOAddObstacles(List<Vector3[]> obsSet)
+        {
+            for (int i = 0; i < obsSet.Count; i++)
+            {
+                List<RVO.Vector2> obsData = new List<RVO.Vector2>();
+                for (int j = 0; j < obsSet[i].Length; j++)
+                {
+                    obsData.Add(new RVO.Vector2(obsSet[i][j].x, obsSet[i][j].z));
+                }
+
+                RVO.Simulator.Instance.addObstacle(obsData);
+            }
+
+            RVO.Simulator.Instance.processObstacles();
+        }
+
+        public static void SetAgentPrefVelocity(int agentId, Vector3 v)
+        {
+            RVO.Simulator.Instance.setAgentPrefVelocity(agentId, new RVO.Vector2(v.x, v.z));
+        }
+
+        public static void SetAgentPosition(int agentId, Vector3 v)
+        {
+            RVO.Simulator.Instance.setAgentPosition(agentId, new RVO.Vector2(v.x, v.z));
+        }
+
+        public static Vector3 GetAgentPosition(int agentId)
+        {
+            RVO.Vector2 pos = RVO.Simulator.Instance.getAgentPosition(agentId);
+
+            return new Vector3(pos.x(), 0, pos.y());
+        }
+
+        public static float GetAgentRaduis(int agentId)
+        {
+            return RVO.Simulator.Instance.getAgentRadius(agentId);
+        }
+
+        public static void DestroyAgent(int agentId)
+        {
+            RVO.Simulator.Instance.delAgent(agentId);
+        }
+
+        public static void ClearRVO()
+        {
+            RVO.Simulator.Instance.Clear();
+        }
+    }
+}

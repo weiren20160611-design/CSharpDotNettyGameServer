@@ -1,0 +1,1 @@
+[2025-07-06 12:41:33.8520] Http uri executor missed, /favicon.ico 

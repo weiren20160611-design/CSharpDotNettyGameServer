@@ -1,0 +1,14 @@
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\bin\Debug\net8.0\GenPBProto.exe
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\bin\Debug\net8.0\GenPBProto.deps.json
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\bin\Debug\net8.0\GenPBProto.runtimeconfig.json
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\bin\Debug\net8.0\GenPBProto.dll
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\bin\Debug\net8.0\GenPBProto.pdb
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.AssemblyInfoInputs.cache
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.AssemblyInfo.cs
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.csproj.CoreCompileInputs.cache
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.dll
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\refint\GenPBProto.dll
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.pdb
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\GenPBProto.genruntimeconfig.cache
+D:\Home\x2-interaction\CSharpGameServer\GenPBProto\obj\Debug\net8.0\ref\GenPBProto.dll

@@ -1,0 +1,5 @@
+﻿唯一ID,任务内容,任务描述,任务开启条件,任务完成条件,奖励
+int,string,string,string,string,string
+ID,name,desicFormat,StartTaskCond,DoneTaskCond,bonues
+100001,收集宝石,收集3个宝石，可以开启下一关,auto,damond=3,HP=100|exp=1000
+100002,收集宝石和天书,收集3个宝石和4本天书，可以开启最终关,auto,damond=3|book=4,HP=300|exp=2000

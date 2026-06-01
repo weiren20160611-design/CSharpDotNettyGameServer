@@ -1,0 +1,40 @@
+[2026-05-31 09:40:05.5561] DotNetty.Transport.Channels.ConnectException: LogError connecting to 127.0.0.1:6092
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.TcpSocketChannel.DoFinishConnect(SocketChannelAsyncOperation operation)
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketChannel.AbstractSocketUnsafe.FinishConnect(SocketChannelAsyncOperation operation)
+   --- End of inner exception stack trace ---
+   at DotNetty.Transport.Bootstrapping.Bootstrap.DoResolveAndConnectAsync(EndPoint remoteAddress, EndPoint localAddress)
+   at Framework.Core.Net.GatewayMgr.ConnectToServer(GatewayConfig config) in D:\Home\x2-interaction\CSharpGameServer\GameServer\src\Framework\Core\net\GatewayMgr.cs:line 274 
+[2026-05-31 09:40:07.5942] DotNetty.Transport.Channels.ConnectException: LogError connecting to 127.0.0.1:6092
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.TcpSocketChannel.DoFinishConnect(SocketChannelAsyncOperation operation)
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketChannel.AbstractSocketUnsafe.FinishConnect(SocketChannelAsyncOperation operation)
+   --- End of inner exception stack trace ---
+   at DotNetty.Transport.Bootstrapping.Bootstrap.DoResolveAndConnectAsync(EndPoint remoteAddress, EndPoint localAddress)
+   at Framework.Core.Net.GatewayMgr.ConnectToServer(GatewayConfig config) in D:\Home\x2-interaction\CSharpGameServer\GameServer\src\Framework\Core\net\GatewayMgr.cs:line 274 
+[2026-05-31 09:40:07.5942] DotNetty.Transport.Channels.ConnectException: LogError connecting to 127.0.0.1:6093
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.TcpSocketChannel.DoFinishConnect(SocketChannelAsyncOperation operation)
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketChannel.AbstractSocketUnsafe.FinishConnect(SocketChannelAsyncOperation operation)
+   --- End of inner exception stack trace ---
+   at DotNetty.Transport.Bootstrapping.Bootstrap.DoResolveAndConnectAsync(EndPoint remoteAddress, EndPoint localAddress)
+   at Framework.Core.Net.GatewayMgr.ConnectToServer(GatewayConfig config) in D:\Home\x2-interaction\CSharpGameServer\GameServer\src\Framework\Core\net\GatewayMgr.cs:line 274 
+[2026-05-31 09:40:09.6569] DotNetty.Transport.Channels.ConnectException: LogError connecting to 127.0.0.1:6094
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.TcpSocketChannel.DoFinishConnect(SocketChannelAsyncOperation operation)
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketChannel.AbstractSocketUnsafe.FinishConnect(SocketChannelAsyncOperation operation)
+   --- End of inner exception stack trace ---
+   at DotNetty.Transport.Bootstrapping.Bootstrap.DoResolveAndConnectAsync(EndPoint remoteAddress, EndPoint localAddress)
+   at Framework.Core.Net.GatewayMgr.ConnectToServer(GatewayConfig config) in D:\Home\x2-interaction\CSharpGameServer\GameServer\src\Framework\Core\net\GatewayMgr.cs:line 274 
+[2026-05-31 09:40:09.6569] DotNetty.Transport.Channels.ConnectException: LogError connecting to 127.0.0.1:6093
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.TcpSocketChannel.DoFinishConnect(SocketChannelAsyncOperation operation)
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketChannel.AbstractSocketUnsafe.FinishConnect(SocketChannelAsyncOperation operation)
+   --- End of inner exception stack trace ---
+   at DotNetty.Transport.Bootstrapping.Bootstrap.DoResolveAndConnectAsync(EndPoint remoteAddress, EndPoint localAddress)
+   at Framework.Core.Net.GatewayMgr.ConnectToServer(GatewayConfig config) in D:\Home\x2-interaction\CSharpGameServer\GameServer\src\Framework\Core\net\GatewayMgr.cs:line 274 

@@ -1,0 +1,8 @@
+[2026-05-19 13:44:16.9902] Duplicate registration of logical types:2 
+[2026-05-19 13:45:05.5033] Duplicate registration of logical types:2 
+[2026-05-19 13:46:11.3074] Duplicate registration of logical types:2 
+[2026-05-19 13:46:40.2022] Duplicate registration of logical types:2 
+[2026-05-19 13:48:12.9870] Duplicate registration of logical types:2 
+[2026-05-19 13:49:58.4973] Duplicate registration of logical types:2 
+[2026-05-19 13:51:11.9281] Duplicate registration of logical types:2 
+[2026-05-19 14:30:21.7615] Duplicate registration of logical types:2 

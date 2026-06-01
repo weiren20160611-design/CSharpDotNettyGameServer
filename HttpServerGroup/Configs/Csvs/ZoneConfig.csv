@@ -1,0 +1,9 @@
+﻿分区ID,区间名字,分区描述,分区的条件
+int,string,string,string
+ID,zoneName,zoneDesic,condString
+10001, 新手场,新手场，适合新手入门,none
+10002,中级场,"中级场,适合玩了一段时间的玩家",none
+10003,高级场,高级场，适合氪金级玩家,ulevel>=10|uchip>=100
+20001,回城地图,主城修整,none
+20002,2D战斗地图,2D游戏战斗,none
+200020,2D地图副本,2D副本战斗,none

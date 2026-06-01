@@ -1,0 +1,2407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Home\\x2-interaction\\CSharpGameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\worldlogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\worldlogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\worldlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\worldlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\worldindeplogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\worldindeplogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\worldindeplogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\worldindeplogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\system\\rvosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\system\\rvosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\mapwrappers\\rvomapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\mapwrappers\\rvomapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\worldmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\worldmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\playerrvocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\playerrvocomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\mapwrappers\\imapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\mapwrappers\\imapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\mapwrappers\\rectmapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\mapwrappers\\rectmapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\mapwrappers\\astarmapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\mapwrappers\\astarmapwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\utils\\entityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\utils\\entityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\serverstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\serverstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\playerloginbonuescache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\playerloginbonuescache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\zoneconfig.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\zoneconfig.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\logicserverinstance.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\logicserverinstance.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\aoi\\globalaoimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\aoi\\globalaoimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\fightroommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\fightroommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\propscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\propscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\mapconfig.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\mapconfig.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\worldindeproommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\worldindeproommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\roommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\roommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\roomlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\roomlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\commonlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\commonlogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\roomlogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\roomlogicserver.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\timermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\timermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\transformcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\transformcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\world\\aoi\\aoimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\world\\aoi\\aoimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\emailmessage\\gm_emailmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\emailmessage\\gm_emailmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\playermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\playermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\utils\\utilshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\utils\\utilshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\baselogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\baselogicserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\utils\\typescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\utils\\typescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\entitymgr\\gm_entitymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\entitymgr\\gm_entitymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\skillbuff_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\skillbuff_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\gameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\gameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\gm_playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\gm_playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\models\\skillmodels\\skillamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\models\\skillmodels\\skillamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\skillwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\skillwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\roommessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\roommessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\gm_skillmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\gm_skillmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\gm_buffmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\gm_buffmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\skillandbuffcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\skillandbuffcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\system\\skillandbuffsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\system\\skillandbuffsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\skilltimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\skilltimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\roomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\roomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\roundroommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\roundroommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\fightmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\fightmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\utils\\excelutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\utils\\excelutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\bufftimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\bufftimeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\skillandbuff\\models\\buffmodels\\buffamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\skillandbuff\\models\\buffmodels\\buffamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_rank\\gm_rankmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_rank\\gm_rankmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\entry\\modules\\playermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\entry\\modules\\playermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\db\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\db\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\statuscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\statuscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\playercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\playercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F849F6CE-A5F9-4D2E-9B71-54154683D896}|tools\\GenDbClass\\GenDbClass.csproj|d:\\home\\x2-interaction\\csharpgameserver\\tools\\gendbclass\\gendbclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F849F6CE-A5F9-4D2E-9B71-54154683D896}|tools\\GenDbClass\\GenDbClass.csproj|solutionrelative:tools\\gendbclass\\gendbclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\bonuesrulea.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\bonuesrulea.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\logicserverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\logicserverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\navcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\navcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\utils\\gameutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\backpackcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\backpackcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\gameroomcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\gameroomcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\worldcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\worldcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\gmentities\\components\\taskcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\gmentities\\components\\taskcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\serializer\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\serializer\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\testmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\testmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\utils\\ruleprocesserutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\utils\\ruleprocesserutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\zonerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\zonerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\logictask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\logictask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\accountguestcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\accountguestcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\db\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\db\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\messages\\authmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\messages\\authmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\entry\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\entry\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\excels\\logicserverinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\excels\\logicserverinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\logicworkerpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\logicworkerpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\logicserver\\room\\rules\\roomrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\logicserver\\room\\rules\\roomrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\taskworkerpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\taskworkerpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\messagetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\messagetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\nettysocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\nettysocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\tcpsocketserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\tcpsocketserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\messagedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\messagedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\entry\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\entry\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\entry\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\entry\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_backpack\\gm_backpackmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_backpack\\gm_backpackmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\basecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\basecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\idsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\idsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\3rd\\csv\\csvreaderbystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\3rd\\csv\\csvreaderbystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\utils\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\utils\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\serializer\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\serializer\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\serializer\\messagepusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\serializer\\messagepusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\config\\configmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\config\\configmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\entry\\httpcontrollers\\httpgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\entry\\httpcontrollers\\httpgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\sessionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\sessionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\task\\abstractdistributetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\task\\abstractdistributetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\core\\cachebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\core\\cachebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\websocketserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\websocketserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_task\\gm_taskmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_task\\gm_taskmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\exchangetrading.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\exchangetrading.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\playeridcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\playeridcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\playeraccountidcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\playeraccountidcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_task\\rules\\collecttaskrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_task\\rules\\collecttaskrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa28924.48674.rartemp\\LogicServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\bonues\\bonuesmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\bonues\\bonuesmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\bonues\\rules\\bonuesrulea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\bonues\\rules\\bonuesrulea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_backpack\\rules\\medicinerrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_backpack\\rules\\medicinerrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_backpack\\rules\\wearrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_backpack\\rules\\wearrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_backpack\\rules\\weaponrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_backpack\\rules\\weaponrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_task\\rules\\demoataskrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_task\\rules\\demoataskrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_trading\\gm_tradingmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_trading\\gm_tradingmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_trading\\rules\\exchangeproductrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_trading\\rules\\exchangeproductrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\gamegoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\gamegoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\loginbonues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\loginbonues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\bonues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\bonues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\gm_trading\\rules\\ordertradingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\gm_trading\\rules\\ordertradingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa49912.28957.rartemp\\RuleProcesserFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\ordertrading.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\ordertrading.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\weargoods.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\weargoods.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\configs\\csvs\\collecttask.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\configs\\csvs\\collecttask.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa45608.47315.rartemp\\ReqTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\cmdexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\cmdexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBC0BB2-4250-F707-DAFB-9FAD269E3904}|tools\\GenExcelClass\\GenExcelClass.csproj|d:\\home\\x2-interaction\\csharpgameserver\\tools\\genexcelclass\\csvstreamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBC0BB2-4250-F707-DAFB-9FAD269E3904}|tools\\GenExcelClass\\GenExcelClass.csproj|solutionrelative:tools\\genexcelclass\\csvstreamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\abstractcachecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\abstractcachecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\core\\loadingcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\core\\loadingcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\serializer\\serializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\serializer\\serializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\utils\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\utils\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\datas\\dbentities\\gametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\datas\\dbentities\\gametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\accountidcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\accountidcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\game\\core\\cache\\accountunamecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\game\\core\\cache\\accountunamecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\ipersistable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\ipersistable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F849F6CE-A5F9-4D2E-9B71-54154683D896}|tools\\GenDbClass\\GenDbClass.csproj|d:\\home\\x2-interaction\\csharpgameserver\\tools\\gendbclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F849F6CE-A5F9-4D2E-9B71-54154683D896}|tools\\GenDbClass\\GenDbClass.csproj|solutionrelative:tools\\gendbclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\gameserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\gameserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\httproutedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\httproutedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\defaultcachecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\defaultcachecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\websocketserverbenchmarkpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\websocketserverbenchmarkpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\net\\httpserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\net\\httpserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\core\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\core\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\core\\iloadingcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\core\\iloadingcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|d:\\home\\x2-interaction\\csharpgameserver\\gameserver\\src\\framework\\core\\cache\\core\\cachedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A0316-88D1-444A-B7E6-FB64B604254A}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\src\\framework\\core\\cache\\core\\cachedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Constants.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Constants.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Constants.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Constants.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAWwJQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RVOMapWrapper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RVOMapWrapper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RVOMapWrapper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RVOMapWrapper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RVOMapWrapper.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:44:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameWorld.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\GameWorld.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\GameWorld.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\GameWorld.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\GameWorld.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAMwK4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorldIndepLogicServer.Request.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.Request.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.Request.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.Request.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:36:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldLogicServer.Request.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.Request.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.Request.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.Request.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.Request.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMapWrapper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\IMapWrapper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\IMapWrapper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\IMapWrapper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\IMapWrapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:57:06.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AStarMapWrapper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\AStarMapWrapper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\AStarMapWrapper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\AStarMapWrapper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\AStarMapWrapper.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:57:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RectMapWrapper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RectMapWrapper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RectMapWrapper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RectMapWrapper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\MapWrappers\\RectMapWrapper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:58:06.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldLogicServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\WorldLogicServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerRVOComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerRVOComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerRVOComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerRVOComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerRVOComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:04:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorldIndepLogicServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepLogicServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T07:55:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorldMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\WorldMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\WorldMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\WorldMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\WorldMessage.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RVOSystem.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\RVOSystem.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\System\\RVOSystem.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\RVOSystem.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\System\\RVOSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:45:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityHelper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\EntityHelper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Utils\\EntityHelper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\EntityHelper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Utils\\EntityHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:06:53.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\GameServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\GameServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\GameServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\GameServer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServerStartup.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\ServerStartup.cs",
+              "RelativeDocumentMoniker": "GameServer\\ServerStartup.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\ServerStartup.cs",
+              "RelativeToolTip": "GameServer\\ServerStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerLoginbonuesCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerLoginbonuesCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\PlayerLoginbonuesCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerLoginbonuesCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\PlayerLoginbonuesCache.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ZoneConfig.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\ZoneConfig.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\ZoneConfig.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\ZoneConfig.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\ZoneConfig.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-14T09:07:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogicServerInstance.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\LogicServerInstance.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\LogicServerInstance.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\LogicServerInstance.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\LogicServerInstance.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GlobalAOIMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\AOI\\GlobalAOIMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\AOI\\GlobalAOIMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\AOI\\GlobalAOIMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\AOI\\GlobalAOIMgr.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:23:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FightRoomMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\FightRoomMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\FightRoomMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\FightRoomMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\FightRoomMgr.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAQwAQBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:21:20.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MapConfig.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\MapConfig.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\MapConfig.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\MapConfig.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\MapConfig.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-14T09:08:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorldIndepRoomMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepRoomMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepRoomMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepRoomMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\WorldIndepRoomMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T07:54:17.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\RoomMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\RoomMgr.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwF8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomLogicServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommonLogicServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\CommonLogicServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\CommonLogicServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\CommonLogicServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\CommonLogicServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PropsComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PropsComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PropsComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PropsComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PropsComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:58:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomLogicServer.Request.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.Request.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.Request.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.Request.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\RoomLogicServer.Request.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwKwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TimerMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\TimerMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\TimerMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\TimerMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\TimerMgr.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransformComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TransformComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TransformComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TransformComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TransformComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AOIMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\AOI\\AOIMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\World\\AOI\\AOIMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\World\\AOI\\AOIMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\World\\AOI\\AOIMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:07:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseLogicServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\BaseLogicServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\BaseLogicServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\BaseLogicServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\BaseLogicServer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GM_EmailMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\EmailMessage\\GM_EmailMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\EmailMessage\\GM_EmailMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\EmailMessage\\GM_EmailMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\EmailMessage\\GM_EmailMgr.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UtilsHelper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\UtilsHelper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\utils\\UtilsHelper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\UtilsHelper.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\utils\\UtilsHelper.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GM_EntityMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\EntityMgr\\GM_EntityMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\EntityMgr\\GM_EntityMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\EntityMgr\\GM_EntityMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\EntityMgr\\GM_EntityMgr.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GM_PlayerEntity.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\GM_PlayerEntity.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\GM_PlayerEntity.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\GM_PlayerEntity.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\GM_PlayerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Emailmessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Emailmessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Emailmessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Emailmessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Emailmessage.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:06:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SkillAModel.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\SkillModels\\SkillAModel.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\SkillModels\\SkillAModel.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\SkillModels\\SkillAModel.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\SkillModels\\SkillAModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:01:47.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\PlayerMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\PlayerMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\PlayerMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\PlayerMessage.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAA0wCIBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SkillWrapper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillWrapper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillWrapper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillWrapper.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillWrapper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:01:35.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TypeScanner.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\TypeScanner.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\utils\\TypeScanner.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\TypeScanner.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\utils\\TypeScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:22:04.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SkillBuff_Attribute.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillBuff_Attribute.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillBuff_Attribute.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillBuff_Attribute.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillBuff_Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:36:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\RoomMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\RoomMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\RoomMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\RoomMessage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GM_SkillMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_SkillMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_SkillMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_SkillMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_SkillMgr.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:06:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GM_BuffMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_BuffMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_BuffMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_BuffMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\GM_BuffMgr.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:27:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GameAttribute.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\GameAttribute.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\GameAttribute.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\GameAttribute.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\GameAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SkillAndBuffComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\SkillAndBuffComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\SkillAndBuffComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\SkillAndBuffComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\SkillAndBuffComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:17:25.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SkillAndBuffSystem.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\SkillAndBuffSystem.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\System\\SkillAndBuffSystem.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\SkillAndBuffSystem.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\System\\SkillAndBuffSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:06:06.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SkillTimeLine.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillTimeLine.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillTimeLine.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillTimeLine.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\SkillTimeLine.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwHgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:08:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoomFactory.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomFactory.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\RoomFactory.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoomFactory.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\RoomFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "NavSystem.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\System\\NavSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:23:19.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoundRoomMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoundRoomMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\RoundRoomMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\RoundRoomMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\RoundRoomMgr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:13:51.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FightMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\FightMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\FightMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\FightMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\FightMessage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:51:48.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExcelUtils.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\ExcelUtils.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\utils\\ExcelUtils.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\ExcelUtils.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\utils\\ExcelUtils.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:53:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BuffTimeLine.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\BuffTimeLine.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\BuffTimeLine.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\BuffTimeLine.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\BuffTimeLine.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwIsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T01:51:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BuffAModel.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\BuffModels\\BuffAModel.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\BuffModels\\BuffAModel.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\BuffModels\\BuffAModel.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\SkillAndBuff\\Models\\BuffModels\\BuffAModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T01:51:20.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Db\\RedisService.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Db\\RedisService.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Db\\RedisService.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Db\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PlayerComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\PlayerComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GM_RankMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Rank\\GM_RankMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Rank\\GM_RankMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Rank\\GM_RankMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Rank\\GM_RankMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PlayerModule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Modules\\PlayerModule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Entry\\Modules\\PlayerModule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Modules\\PlayerModule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Entry\\Modules\\PlayerModule.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAAAYwPEBAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StatusComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\StatusComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\StatusComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\StatusComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\StatusComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:29:23.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GenDbClass.csproj",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenDbClass\\GenDbClass.csproj",
+              "RelativeDocumentMoniker": "tools\\GenDbClass\\GenDbClass.csproj",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenDbClass\\GenDbClass.csproj",
+              "RelativeToolTip": "tools\\GenDbClass\\GenDbClass.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T02:30:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BonuesRuleA.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\BonuesRuleA.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\BonuesRuleA.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\BonuesRuleA.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\BonuesRuleA.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:51.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LogicServerFactory.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\LogicServerFactory.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\LogicServerFactory.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\LogicServerFactory.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\LogicServerFactory.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA3wGoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "NavComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\NavComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\NavComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\NavComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\NavComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:48:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BackpackComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\BackpackComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\BackpackComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\BackpackComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\BackpackComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GameUtils.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\GameUtils.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Utils\\GameUtils.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\GameUtils.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Utils\\GameUtils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GameRoomComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\GameRoomComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\GameRoomComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\GameRoomComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\GameRoomComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WorldComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\WorldComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\WorldComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\WorldComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\WorldComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TaskComponent.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TaskComponent.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TaskComponent.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TaskComponent.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\GMEntities\\Components\\TaskComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\Message.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\serializer\\Message.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\Message.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\serializer\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TestMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\TestMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\TestMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\TestMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\TestMessage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RuleProcesserUtils.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\RuleProcesserUtils.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Utils\\RuleProcesserUtils.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Utils\\RuleProcesserUtils.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Utils\\RuleProcesserUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ZoneRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\ZoneRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\ZoneRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\ZoneRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\ZoneRule.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LogicTask.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\LogicTask.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\LogicTask.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\LogicTask.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\LogicTask.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwDwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AccountGuestCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountGuestCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\AccountGuestCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountGuestCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\AccountGuestCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Db\\DBService.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Db\\DBService.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Db\\DBService.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Db\\DBService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAWwIMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AuthMessage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\AuthMessage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Messages\\AuthMessage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Messages\\AuthMessage.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Messages\\AuthMessage.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TaskWorkerPool.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\TaskWorkerPool.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\TaskWorkerPool.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\TaskWorkerPool.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\TaskWorkerPool.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwIcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MessageTask.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\MessageTask.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\MessageTask.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\MessageTask.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\MessageTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AuthModule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Modules\\AuthModule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Entry\\Modules\\AuthModule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Modules\\AuthModule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Entry\\Modules\\AuthModule.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RoomRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\Rules\\RoomRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\LogicServer\\Room\\Rules\\RoomRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\LogicServer\\Room\\Rules\\RoomRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\LogicServer\\Room\\Rules\\RoomRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LogicWorkerPool.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\LogicWorkerPool.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\LogicWorkerPool.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\LogicWorkerPool.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\LogicWorkerPool.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAnwLcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "LogicServerInstance.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Excels\\LogicServerInstance.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\Excels\\LogicServerInstance.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\Excels\\LogicServerInstance.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\Excels\\LogicServerInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "NettySocketServer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\NettySocketServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\NettySocketServer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\NettySocketServer.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\NettySocketServer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TcpSocketServerHandler.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\TcpSocketServerHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\TcpSocketServerHandler.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\TcpSocketServerHandler.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\TcpSocketServerHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "MessageDispatcher.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\MessageDispatcher.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\MessageDispatcher.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\MessageDispatcher.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\MessageDispatcher.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAWwJoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Entry\\Controllers\\PlayerController.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Entry\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Entry\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Entry\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\nlog.config",
+              "RelativeDocumentMoniker": "GameServer\\nlog.config",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\nlog.config",
+              "RelativeToolTip": "GameServer\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-12T02:30:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "GM_BackpackMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\GM_BackpackMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Backpack\\GM_BackpackMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\GM_BackpackMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Backpack\\GM_BackpackMgr.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BaseCacheService.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\BaseCacheService.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\BaseCacheService.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\BaseCacheService.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\BaseCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IdSession.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\IdSession.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\IdSession.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\IdSession.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\IdSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\App.config",
+              "RelativeDocumentMoniker": "GameServer\\App.config",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\App.config",
+              "RelativeToolTip": "GameServer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-12T02:30:50.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "CsvReaderByString.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\3rd\\csv\\CsvReaderByString.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\3rd\\csv\\CsvReaderByString.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\3rd\\csv\\CsvReaderByString.cs",
+              "RelativeToolTip": "GameServer\\src\\3rd\\csv\\CsvReaderByString.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\Attributes.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\utils\\Attributes.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\Attributes.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\utils\\Attributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "MessageFactory.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\MessageFactory.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\serializer\\MessageFactory.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\MessageFactory.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\serializer\\MessageFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "MessagePusher.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\MessagePusher.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\serializer\\MessagePusher.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\MessagePusher.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\serializer\\MessagePusher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Player.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Player.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Player.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Player.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AbstractDistributeTask.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\AbstractDistributeTask.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\task\\AbstractDistributeTask.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\task\\AbstractDistributeTask.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\task\\AbstractDistributeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "SessionMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\SessionMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\SessionMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\SessionMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\SessionMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "HttpGameController.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\HttpControllers\\HttpGameController.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Entry\\HttpControllers\\HttpGameController.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Entry\\HttpControllers\\HttpGameController.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Entry\\HttpControllers\\HttpGameController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ConfigMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Config\\ConfigMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Config\\ConfigMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Config\\ConfigMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Config\\ConfigMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CacheBuilder.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\CacheBuilder.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\core\\CacheBuilder.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\CacheBuilder.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\core\\CacheBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "WebSocketServerHandler.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\WebSocketServerHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\WebSocketServerHandler.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\WebSocketServerHandler.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\WebSocketServerHandler.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "GM_TaskMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\GM_TaskMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Task\\GM_TaskMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\GM_TaskMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Task\\GM_TaskMgr.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAArwK8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ExchangeTrading.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\ExchangeTrading.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\ExchangeTrading.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\ExchangeTrading.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\ExchangeTrading.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "PlayerAccountIDCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerAccountIDCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\PlayerAccountIDCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerAccountIDCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\PlayerAccountIDCache.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "PlayerIDCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerIDCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\PlayerIDCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\PlayerIDCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\PlayerIDCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CollectTaskRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\Rules\\CollectTaskRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Task\\Rules\\CollectTaskRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\Rules\\CollectTaskRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Task\\Rules\\CollectTaskRule.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "LogicServer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa28924.48674.rartemp\\LogicServer.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa28924.48674.rartemp\\LogicServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "BonuesRuleA.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Bonues\\Rules\\BonuesRuleA.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Bonues\\Rules\\BonuesRuleA.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Bonues\\Rules\\BonuesRuleA.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Bonues\\Rules\\BonuesRuleA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "BonuesMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Bonues\\BonuesMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Bonues\\BonuesMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Bonues\\BonuesMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Bonues\\BonuesMgr.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwKcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "MedicinerRules.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\MedicinerRules.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\MedicinerRules.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\MedicinerRules.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\MedicinerRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "WearRules.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WearRules.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WearRules.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WearRules.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WearRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "WeaponRules.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WeaponRules.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WeaponRules.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WeaponRules.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Backpack\\Rules\\WeaponRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "DemoATaskRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\Rules\\DemoATaskRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Task\\Rules\\DemoATaskRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Task\\Rules\\DemoATaskRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Task\\Rules\\DemoATaskRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "GM_TradingMgr.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\GM_TradingMgr.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Trading\\GM_TradingMgr.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\GM_TradingMgr.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Trading\\GM_TradingMgr.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ExchangeProductRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\ExchangeProductRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\ExchangeProductRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\ExchangeProductRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\ExchangeProductRule.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Account.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Account.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Account.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Account.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Bonues.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Bonues.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Bonues.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Bonues.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Bonues.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Gamegoods.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Gamegoods.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Gamegoods.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Gamegoods.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Gamegoods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Loginbonues.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Loginbonues.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Loginbonues.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Loginbonues.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Loginbonues.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "OrderTradingRule.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\OrderTradingRule.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\OrderTradingRule.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\OrderTradingRule.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\GM_Trading\\Rules\\OrderTradingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "RuleProcesserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa49912.28957.rartemp\\RuleProcesserFactory.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa49912.28957.rartemp\\RuleProcesserFactory.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv6EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "OrderTrading.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\OrderTrading.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\OrderTrading.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\OrderTrading.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\OrderTrading.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:51.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "WearGoods.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\WearGoods.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\WearGoods.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\WearGoods.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\WearGoods.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "CollectTask.csv",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\CollectTask.csv",
+              "RelativeDocumentMoniker": "GameServer\\Configs\\Csvs\\CollectTask.csv",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\Configs\\Csvs\\CollectTask.csv",
+              "RelativeToolTip": "GameServer\\Configs\\Csvs\\CollectTask.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T02:30:51.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "ReqTest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa45608.47315.rartemp\\ReqTest.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\Rar$DIa45608.47315.rartemp\\ReqTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "CmdExecutor.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\CmdExecutor.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\CmdExecutor.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\CmdExecutor.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\CmdExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "LoadingCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\LoadingCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\core\\LoadingCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\LoadingCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\core\\LoadingCache.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "CsvStreamReader.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenExcelClass\\CsvStreamReader.cs",
+              "RelativeDocumentMoniker": "tools\\GenExcelClass\\CsvStreamReader.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenExcelClass\\CsvStreamReader.cs",
+              "RelativeToolTip": "tools\\GenExcelClass\\CsvStreamReader.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAuwNsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "AbstractCacheContainer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\AbstractCacheContainer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\AbstractCacheContainer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\AbstractCacheContainer.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\AbstractCacheContainer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "SerializerHelper.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\SerializerHelper.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\serializer\\SerializerHelper.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\serializer\\SerializerHelper.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\serializer\\SerializerHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\utils\\IdGenerator.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\utils\\IdGenerator.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\utils\\IdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "Gametask.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Gametask.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Datas\\DbEntities\\Gametask.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Datas\\DbEntities\\Gametask.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Datas\\DbEntities\\Gametask.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "AccountUnameCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountUnameCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\AccountUnameCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountUnameCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\AccountUnameCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "AccountIDCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountIDCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Game\\Core\\Cache\\AccountIDCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Game\\Core\\Cache\\AccountIDCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Game\\Core\\Cache\\AccountIDCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "DefaultCacheContainer.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\DefaultCacheContainer.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\DefaultCacheContainer.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\DefaultCacheContainer.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\DefaultCacheContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "GameServer.csproj",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\GameServer.csproj",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.csproj",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\GameServer.csproj",
+              "RelativeToolTip": "GameServer\\GameServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T02:30:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenDbClass\\Program.cs",
+              "RelativeDocumentMoniker": "tools\\GenDbClass\\Program.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\tools\\GenDbClass\\Program.cs",
+              "RelativeToolTip": "tools\\GenDbClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "HttpRouteDispatcher.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\HttpRouteDispatcher.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\HttpRouteDispatcher.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\HttpRouteDispatcher.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\HttpRouteDispatcher.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAABYwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "ILoadingCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\ILoadingCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\core\\ILoadingCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\ILoadingCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\core\\ILoadingCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "IPersistable.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\IPersistable.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\IPersistable.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\IPersistable.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\IPersistable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "LRUCache.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\LRUCache.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\core\\LRUCache.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\LRUCache.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\core\\LRUCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "CacheData.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\CacheData.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\cache\\core\\CacheData.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\cache\\core\\CacheData.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\cache\\core\\CacheData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "HttpServerHandler.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\HttpServerHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\HttpServerHandler.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\HttpServerHandler.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\HttpServerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "WebSocketServerBenchmarkPage.cs",
+              "DocumentMoniker": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\WebSocketServerBenchmarkPage.cs",
+              "RelativeDocumentMoniker": "GameServer\\src\\Framework\\Core\\net\\WebSocketServerBenchmarkPage.cs",
+              "ToolTip": "D:\\Home\\x2-interaction\\CSharpGameServer\\GameServer\\src\\Framework\\Core\\net\\WebSocketServerBenchmarkPage.cs",
+              "RelativeToolTip": "GameServer\\src\\Framework\\Core\\net\\WebSocketServerBenchmarkPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:30:51.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

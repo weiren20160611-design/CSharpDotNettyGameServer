@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ReqGuestLogin {
+   string guestKey = 1;
+}
+message ReqUserLogin {
+   string uname = 1;
+   string upwd = 2;
+}

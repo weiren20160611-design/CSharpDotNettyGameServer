@@ -1,0 +1,2 @@
+[2026-04-04 17:21:50.5345] message task execute failedUnable to cast object of type 'GameServer.src.Game.Datas.Messages.ResUserLogin' to type 'Framework.Core.Serializer.Message'. 
+[2026-04-04 17:25:11.5750] message task execute failedUnable to cast object of type 'Game.Datas.Messages.ResUserLogin' to type 'Framework.Core.Serializer.Message'. 

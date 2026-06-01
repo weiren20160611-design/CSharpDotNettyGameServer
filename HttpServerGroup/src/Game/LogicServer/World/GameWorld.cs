@@ -1,0 +1,141 @@
+﻿using Framework.Core.Serializer;
+using Framework.Core.task;
+using Game.Core.EntityMgr;
+using Game.Datas.GMEntities;
+using Game.Datas.Messages;
+using Game.Utils;
+using LitJson;
+using System;
+using System.IO;
+
+namespace Game.LogicServer
+{
+
+    public enum PlayerInWorld
+    {
+        Invalid = -1,
+        Stand = 0,
+        Fight = 1,
+        Dead = 2,
+    }
+    public class GameWorld
+    {
+        int autoId = 1;
+        private TimerMgr timerMgr = null;
+        private AOIMgr aoiMgr = null;
+        private int zidOrMapId = -1;
+        protected IMapWrapper mapWrapper = null;
+
+        public void Init(int zidOrMapId, TimerMgr timerMgr)
+        {
+            this.zidOrMapId = zidOrMapId;
+            this.timerMgr = timerMgr;
+            LoadAndCreateGameMap();
+
+        }
+
+        public void OnUpdate(float dt)
+        {
+            this.aoiMgr.OnUpdate(dt);
+        }
+
+        public void LoadAndCreateGameMap()
+        {
+            if (this.zidOrMapId == 20001)
+            {
+                this.mapWrapper = new RectMapWrapper();
+                mapWrapper.LoadMapData(this.zidOrMapId);
+                aoiMgr = new GlobalAOIMgr();
+                this.aoiMgr.Init(mapWrapper);
+            }
+            else if (this.zidOrMapId == 20002)
+            {
+                mapWrapper = new AStarMapWrapper();
+                mapWrapper.LoadMapData(this.zidOrMapId);
+                aoiMgr = new NineGridAOIMgr();
+                this.aoiMgr.Init(mapWrapper, 128 * 3);
+            }
+        }
+
+        public int PlayerEnterToWorld(GM_PlayerEntity player, long playeId)
+        {
+            player.uWorld.logicServerId = player.uPlayer.session.logicServerId;
+            player.uSkillAndBuff.worldOrRoom = this.aoiMgr;
+            player.uWorld.worldId = autoId;
+            autoId++;
+
+            player.uProps.speed = 10;
+            if (zidOrMapId == 20002)
+            {
+                player.uProps.speed = 150;
+            }
+
+            return (int)Respones.OK;
+        }
+
+        public int PlayerExitFromWorld(GM_PlayerEntity player, long playeId, int reason)
+        {
+            //if (reason == (int)QuitReason.DisconnectQuit)
+            //{
+            //    player.uWorld.reConnectGameState = 1;
+            //    return (int)Respones.UserIsPlaying;
+            //}
+            aoiMgr.LeaveFromAOI(player);
+            player.uWorld.reConnectGameState = -1;
+            player.uWorld.worldId = -1;
+            player.uSkillAndBuff.worldOrRoom = null;
+            return (int)Respones.OK;
+        }
+
+        private void PlayerEnterAOI(GM_PlayerEntity player)
+        {
+            aoiMgr.EnterToAOI(player);
+        }
+
+        private void PlayerSpawnInMap(GM_PlayerEntity player, int spawnPointIndex)
+        {
+
+            this.mapWrapper.PlayerSpawnAtMap(player, spawnPointIndex);
+
+            player.uStatus.status = (int)CharactorStatus.Idle;
+            PlayerEnterAOI(player);
+        }
+
+        public ResPlayerSpawn PlayerSpawnAt(GM_PlayerEntity player, ReqPlayerSpawn req)
+        {
+            ResPlayerSpawn res = new ResPlayerSpawn();
+            res.status = (int)Respones.OK;
+            res.worldId = player.uWorld.worldId;
+            this.aoiMgr.SendMsg(player, res);
+
+            PlayerSpawnInMap(player, req.spawnPoint);
+
+            return null;
+        }
+
+
+
+        public void PlayerNavToDst(GM_PlayerEntity player, ReqNavToDst req)
+        {
+            //这里判断点位是否可以导航
+            //end
+
+            //导航到目标点
+            this.mapWrapper.NavToDst(player, req.x, req.y, req.z);
+            player.uNineGrid.dstPosX = req.x;
+            player.uNineGrid.dstPosY = req.y;
+            player.uNineGrid.dstPosZ = req.z;
+
+            ResNavToDst res = new ResNavToDst();
+            res.worldId = player.uWorld.worldId;
+            res.x = req.x;
+            res.y = req.y;
+            res.z = req.z;
+            res.speed = player.uProps.speed;
+            aoiMgr.BroadMessageToAOI(player, res);
+        }
+
+
+
+    }
+}
